@@ -1,5 +1,6 @@
 #- # Ping Identity Docker Image - `pingbase`
 #-
+#-
 #- This docker image provides a base image for all Ping Identity DevOps
 #- product images.
 #-
